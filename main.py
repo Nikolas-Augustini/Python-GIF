@@ -6,4 +6,4 @@ images = []
 for filename in filenames:
     images.append(iio.imread(filename))
     
-iio.imwrite('team.gif', images, duration = 500, loop = 0)
+iio.imwrite('spiderheart.gif', images, duration = 500, loop = 0)
