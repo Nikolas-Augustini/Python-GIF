@@ -1,6 +1,6 @@
 import imageio.v3 as iio
 
-filenames = ['teamp-pic1.png', 'team-pic2.png']
+filenames = ['sp1.png', 'sp2.png', 'sp3.png', 'sp4.png', 'sp5.png', 'sp6.png']
 images = []
 
 for filename in filenames:
